@@ -1,2 +1,6 @@
 # hello-world
-First github repository. Let's start with hello-world, the traditional style.
+
+
+Hello people
+
+Shivani here!! This is my first branch from main. Keep learning :)
