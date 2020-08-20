@@ -3,4 +3,4 @@
 
 Hello people
 
-Shivani here!! This is my first branch from main. Keep learning :)
+Shivani here!! Keep learning :)
